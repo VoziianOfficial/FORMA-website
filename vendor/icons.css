@@ -1,0 +1,166 @@
+/*!
+*   _____       _             __                 _____                               ______ _       _   _
+*  |_   _|     | |           / _|               |_   _|                             |  ____| |     | | (_)
+*    | |  _ __ | |_ ___ _ __| |_ __ _  ___ ___    | |  ___ ___  _ __  ___   ______  | |__  | | __ _| |_ _  ___ ___  _ __
+*    | | | '_ \| __/ _ \ '__|  _/ _` |/ __/ _ \   | | / __/ _ \| '_ \/ __| |______| |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*   _| |_| | | | ||  __/ |  | || (_| | (_|  __/  _| || (_| (_) | | | \__ \          | |    | | (_| | |_| | (_| (_) | | | |
+*  |_____|_| |_|\__\___|_|  |_| \__,_|\___\___| |_____\___\___/|_| |_|___/          |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*                         UIcons 3.0.0 - https://www.flaticon.com/uicons/interface-icons
+*/
+@font-face{font-family:"uicons-regular-rounded";src:url("icons.woff2") format("woff2");font-display:swap}
+
+    i[class^="fi-rr-"]:before, i[class*=" fi-rr-"]:before, span[class^="fi-rr-"]:before, span[class*="fi-rr-"]:before {
+font-family: uicons-regular-rounded !important;
+font-style: normal;
+font-weight: normal !important;
+font-variant: normal;
+text-transform: none;
+line-height: 1;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+
+        .fi-rr-accordion:before {
+    content: "\e025";
+    }
+
+        .fi-rr-apps:before {
+    content: "\e0b3";
+    }
+
+        .fi-rr-bags-shopping:before {
+    content: "\e16d";
+    }
+
+        .fi-rr-book-open-cover:before {
+    content: "\e22d";
+    }
+
+        .fi-rr-brand:before {
+    content: "\e29c";
+    }
+
+        .fi-rr-briefcase:before {
+    content: "\e2af";
+    }
+
+        .fi-rr-check:before {
+    content: "\e3d7";
+    }
+
+        .fi-rr-check-circle:before {
+    content: "\e3d8";
+    }
+
+        .fi-rr-checkbox:before {
+    content: "\e3dc";
+    }
+
+        .fi-rr-comment-alt:before {
+    content: "\e4e6";
+    }
+
+        .fi-rr-cookie:before {
+    content: "\e539";
+    }
+
+        .fi-rr-document-signed:before {
+    content: "\e661";
+    }
+
+        .fi-rr-download:before {
+    content: "\e67e";
+    }
+
+        .fi-rr-envelope:before {
+    content: "\e6f1";
+    }
+
+        .fi-rr-feather:before {
+    content: "\e788";
+    }
+
+        .fi-rr-filters:before {
+    content: "\e7db";
+    }
+
+        .fi-rr-fingerprint:before {
+    content: "\e7e2";
+    }
+
+        .fi-rr-function:before {
+    content: "\e882";
+    }
+
+        .fi-rr-home:before {
+    content: "\e9d2";
+    }
+
+        .fi-rr-layers:before {
+    content: "\eb07";
+    }
+
+        .fi-rr-link:before {
+    content: "\eb4e";
+    }
+
+        .fi-rr-luggage-rolling:before {
+    content: "\eb8e";
+    }
+
+        .fi-rr-makeup-brush:before {
+    content: "\ebb1";
+    }
+
+        .fi-rr-open:before {
+    content: "\ed32";
+    }
+
+        .fi-rr-palette:before {
+    content: "\ed5c";
+    }
+
+        .fi-rr-plane:before {
+    content: "\ee51";
+    }
+
+        .fi-rr-rotate-left:before {
+    content: "\efa5";
+    }
+
+        .fi-rr-rotate-right:before {
+    content: "\efa7";
+    }
+
+        .fi-rr-ruler-combined:before {
+    content: "\efb7";
+    }
+
+        .fi-rr-scroll:before {
+    content: "\f008";
+    }
+
+        .fi-rr-settings-sliders:before {
+    content: "\f03e";
+    }
+
+        .fi-rr-shield-check:before {
+    content: "\f04f";
+    }
+
+        .fi-rr-shopping-bag:before {
+    content: "\f06c";
+    }
+
+        .fi-rr-sun:before {
+    content: "\f1f7";
+    }
+
+        .fi-rr-wallet:before {
+    content: "\f45f";
+    }
+
+        .fi-rr-world:before {
+    content: "\f4db";
+    }
